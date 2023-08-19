@@ -1,6 +1,6 @@
 <a href="https://github.com/szl2/jemdoc-new-design"><img src="README.assets/banner.png" alt="banner" style="zoom:100%;" /></a>
 
-[jemdoc](https://jemdoc.jaboc.net/) (or [jemdoc+MathJax](http://www.mit.edu/~wsshin/jemdoc+mathjax.html)) has always been a good choice for light static website generating.
+[jemdoc](https://jemdoc.jaboc.net/) (or [jemdoc+MathJax](http://www.mit.edu/~wsshin/jemdoc+mathjax.html)) has always been a good choice for light static website generating. 
 
 Yet, now it has a new design. If you know how to use [jemdoc](https://jemdoc.jaboc.net/), there is no learning curve. The usage is exactly the same.
 
