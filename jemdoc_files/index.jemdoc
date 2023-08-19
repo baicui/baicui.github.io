@@ -1,9 +1,43 @@
 # jemdoc: menu{MENU}{index.html}
 
-~~~
-{}{img_left}{./images/banner.png}{profile pic}{100%}{}{https://github.com/szl2/jemdoc-new-design}
-~~~
+#~~~
+#{}{img_left}{./images/banner.png}{profile pic}{100%}{}{https://github.com/szl2/jemdoc-new-design}
+#~~~
+
+#~~~
+#{}{img_left}{./images/info.png}{info pic}{100%}{}{}
+#~~~
+
+# = Bai Cui
 
 ~~~
-{}{img_left}{./images/info.png}{info pic}{100%}{}{}
+{}{img_left}{./images/ISU_NewFaculty_067.jpg}{profile picture}{200px}{200px}{}
+*Bai Cui* \n
+Assistant Professor \n
+[https://www.ece.iastate.edu/ Department of Electrical and Computer Engineering] \n
+[https://www.iastate.edu/ Iowa State University]
+
+Email: [baicui@iastate.edu] \n
+Office: 1130 Coover Hall
+
+[https://scholar.google.com/citations?user=6Pi68pMAAAAJ&hl=en Google Scholar]
+#Links: [https://scholar.google.com/citations?user=6Pi68pMAAAAJ&hl=en Google Scholar], [https://#www.researchgate.net/profile/Bai_Cui2 ResearchGate]
 ~~~
+
+== Bio Sketch
+
+Bai Cui is an Assistant Professor in the Department of Electrical and Computer Engineering at Iowa State University. His research focuses on the applications of control and optimization techniques in power and energy systems to improve system security, economic efficiency, and sustainability. Bai received his B.S. degree in Electrical Engineering from Shanghai Jiao Tong University, Shanghai, China in 2011, B.S. degree in Computer Engineering from the University of Michigan, Ann Arbor in 2011, and his Ph.D. degree in Electrical Engineering from Georgia Tech in 2018. His doctoral advisors were Profs. Sakis Meliopoulos and Andy Sun. Prior to joining ISU, he was a researcher at the National Renewable Energy Laboratory, and a postdoctoral appointee at Argonne National Laboratory.
+
+== What's New
+- \[Aug. 2023\] EPRC project /Aggregate Flexibility Region Maximization by Distribution System Reconfiguration/ begins!
+- \[Aug. 2023\] Minbo Li joins as a PhD student. Welcome Minbo!
+- \[Aug. 2023\] I joined the Department of Electrical and Computer Engineering at Iowa State University as an Assistant Professor.
+
+== Prospective Students
+
+I am always looking for students with good mathematical backgrounds who are passionate about exploring the fascinating field of power and energy systems. If you are interested, please reach me at [baicui@iastate.edu].
+
+#My primary research interests are in the area of power system security and stability analysis and #power system optimization. Topics of recent interests include:
+#. Power flow solvability
+#. Real-time monitoring of voltage stability
+#. Convex relaxation of optimal power flow and its applications
