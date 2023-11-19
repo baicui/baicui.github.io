@@ -1,0 +1,79 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>Research Topics</title>
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">Bai Cui</div>
+<div class="menu-item"><a href="index.html">Home</a></div>
+<div class="menu-item"><a href="cv.pdf">CV</a></div>
+<div class="menu-category">Research</div>
+<div class="menu-item"><a href="topics.html" class="current">Topics</a></div>
+<div class="menu-item"><a href="publications.html">Publications</a></div>
+<div class="menu-item"><a href="prospective_students.html">Prospective&nbsp;Students</a></div>
+<div class="menu-category">Teaching</div>
+<div class="menu-item"><a href="ee553.html">EE553</a></div>
+<div class="menu-item"><a href="ee455.html">EE455</a></div>
+</td>
+<td id="layout-content">
+<div id="toptitle">
+<h1>Research Topics</h1>
+</div>
+<p>My research focuses on the development and application of advanced computational methods to power and energy systems, with recent emphasis
+on the development of novel control and optimization methods to enable high penetration of distributed energy resources and renewable energy sources in power systems.</p>
+<h2>Characterization of aggregate flexibility of distributed energy resources</h2>
+<p>The high penetration of distributed energy resources (DERs) provides unprecedented <i>aggregate</i> flexiblity for an active distribution network to reduce, shape, shift, 
+and modulate its aggregate power consumption/injection at the substation level. Such aggregate flexiblity enables aggregated DERs to provide grid services 
+at the bulk power system level and facilitates their grid integration. In this research, we try to quantify the aggregate flexibility of DERs given the flexibility of
+individual device, their intertemporal coupling constraints, and network constraints.</p>
+<p>Mathematically, given a description of the feasible region of the DER output (<img class="eq" src="eqs/1270941680-130.png" alt="p^{mathrm{DER}}" style="vertical-align: -4px" />) and the aggregate power at the substation 
+(<img class="eq" src="eqs/254312850-130.png" alt="p^{mathrm{agg}}" style="vertical-align: -4px" />) as <img class="eq" src="eqs/1346806809-130.png" alt="(p^{mathrm{agg}}, p^{mathrm{DER}}) in mathcal{F}^+" style="vertical-align: -5px" />, we are interested in the characterization of the set <img class="eq" src="eqs/1605353299-130.png" alt="mathcal{F}" style="vertical-align: -1px" /> such that
+for any <img class="eq" src="eqs/771244033-130.png" alt="p^{mathrm{agg}} in mathcal{F}" style="vertical-align: -4px" />, there exists a vector of <img class="eq" src="eqs/1270941680-130.png" alt="p^{mathrm{DER}}" style="vertical-align: -4px" /> such that <img class="eq" src="eqs/1346806809-130.png" alt="(p^{mathrm{agg}}, p^{mathrm{DER}}) in mathcal{F}^+" style="vertical-align: -5px" />. 
+In other words, the projection of <img class="eq" src="eqs/476858530-130.png" alt="mathcal{F}^+" style="vertical-align: -1px" /> onto the <img class="eq" src="eqs/254312850-130.png" alt="p^{mathrm{agg}}" style="vertical-align: -4px" />-space. 
+It is well known that even in the simple case where <img class="eq" src="eqs/476858530-130.png" alt="mathcal{F}^+" style="vertical-align: -1px" /> is a polytope, finding a general projection in <img class="eq" src="eqs/1607353309-130.png" alt="mathcal{H}" style="vertical-align: -1px" />-representation from 
+<img class="eq" src="eqs/476858530-130.png" alt="mathcal{F}^+" style="vertical-align: -1px" /> in <img class="eq" src="eqs/1607353309-130.png" alt="mathcal{H}" style="vertical-align: -1px" />-representation is NP-hard. 
+Our research focuses on developing tractable approximation algorithms using advanced optimization and data-driven approaches to 
+find high-quality approximation of <img class="eq" src="eqs/2025021834-130.png" alt="mathrm{Proj}_{p^{mathrm{agg}}}(mathcal{F}^+)" style="vertical-align: -8px" />.</p>
+<p><b>Relevant publications</b>:<br />
+[AF1] <b>B. Cui</b>,  A. Zamzam, and A. Bernstein, <a href="https://ieeexplore.ieee.org/abstract/document/9295337">Network-Cognizant Time-Coupled Aggregate Flexibility of Distribution Systems Under Uncertainties</a>, <i>IEEE Control Systems Letters</i>, vol. 5, no. 5, pp. 1723&ndash;1728, Nov. 2021.<br />
+[AF2] Q. Li, J. Liu, <b>B. Cui</b>, W. Song, and J. Ye, <a href="https://ieeexplore.ieee.org/abstract/document/10298800">Distribution System Flexibility Characterization: A Network-Informed Data-Driven Approach</a>, <i>IEEE Transactions on Smart Grid</i>, to be published.<br />
+[AF3] S. Wang, <b>B. Cui</b>, L. Du, <a href="https://ieeexplore.ieee.org/document/9916799">An Efficient Power Flexibility Aggregation Framework via Coordinate Transformation and Chebyshev Centering Optimization</a>, <i>IEEE Power & Energy Society General Meeting</i>, Denver, CO, 2022. </p>
+<h2>Market integration of virtual power plants</h2>
+<p>In this project, we are interested in the development of optimal bidding strategies of virtual power plants to bid into the day-ahead electricity market 
+under a multistage stochastic programming formulation. We develop a policy that determines the optimal offering quantity of a virtual power plant as a function of the price
+given a Markovian forecast of the day-ahead market price. We develop tailored algorithms based on stochastic dual dynamic programming to improve the computational efficiency
+of the method.</p>
+<p><b>Relevant publications</b>:<br />
+[MI1] L. Chen, B. Xu, S. Zhang, and <b>B. Cui</b>, Optimal Offering Strategy of a Price-Taking Virtual Power Plant, <i>Power System Computation Conference (PSCC)</i>, Paris, France, 2024 (submitted).<br />
+[MI2] <b>B. Cui</b>, A. Zamzam, and A. Bernstein, <a href="https://arxiv.org/abs/2207.12685">Enabling Grid-Aware Market Participation of Aggregate Flexible Resources</a>, <i>11th Bulk Power Systems Dynamics and Control Symposium (IREP 2022)</i>, Banff, Canada, 2022.</p>
+<h2>Power flow analysis</h2>
+<p>I'm interested in the explicit characterization of the properties of power flow solutions such as their existence, 
+uniqueness within a specified subset of state space, and convergence of iterative algorithms to the solutions. Such analysis provides theoretical guarantees on the 
+existence and rigorous bounds on power flow solutions given network parameters and loading conditions, without explicitly solving for the power flow equations. 
+The deep understanding of the interplay between power flow solutions and the topological and parametric properties of the power networks provides new insights 
+and tools for the solution of many emerging problems in power systems such as the stability of converter-based networks and 
+power system optimization under uncertainties, which we are actively exploring.</p>
+<p><b>Relevant publications</b>:<br />
+[PF1] <b>B. Cui</b> and X. A. Sun, Securing Voltage Stability in Power Grids via Holomorphic Dynamics (submitted).<br />
+[PF2] B. Ou, B. Wang, <b>B. Cui</b>, and D. Wu, Updated Impedance Power Flow, <i>Power System Computation Conference (PSCC)</i>, Paris, France, 2024 (submitted).<br />
+[PF3] <b>B. Cui</b>,  A. Zamzam, G. Cavraro, and A. Bernstein, <a href="https://ieeexplore.ieee.org/document/9670647">Efficient Region of Attraction Characterization for Control and Stabilization of Load Tap Changer Dynamics</a>, <i>IEEE Transactions on Control of Network Systems</i>, vol. 9, no. 3, pp. 1506&ndash;1517, Sep. 2022.<br />
+[PF4] J. Liu, <b>B. Cui</b>, D. K. Molzahn, C. Chen, and X. Lu, <a href="https://ieeexplore.ieee.org/document/9601218">Optimal Power Flow for DC Networks with Robust Feasibility and Stability Guarantees</a>, <i>IEEE Transactions on Control of Network Systems</i>, vol. 9, no. 2, pp. 904&ndash;916, Jun. 2022.<br />
+[PF5] B. Li, <b>B. Cui</b>, F. Qiu, and D. K. Molzahn, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378779620303461">Balancibility: Existence and Uniqueness of Power Flow Solutions Under Voltage Balance Requirements</a>, <i>Electric Power Systems Research</i>, vol. 190, Jan. 2021.<br />
+[PF6] <b>B. Cui</b>, R. Yao, and F. Qiu, <a href="https://www.sciencedirect.com/science/article/pii/S037877962030554X">Certification and Prediction of Post-Disturbance States in Dynamic Security Assessment</a>, <i>Electric Power Systems Research</i>, vol. 189, Dec. 2020.</p>
+<div id="footer">
+<div id="footer-text">
+Page generated 2023-11-18 18:58:34 Central Standard Time, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</body>
+</html>
