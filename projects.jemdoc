@@ -6,12 +6,12 @@ on the development of novel control and optimization methods to enable high pene
 
 == Characterization of aggregate flexibility of distributed energy resources
 
-The high penetration of distributed energy resources (DERs) provides unprecedented /aggregate/ flexiblity for an active distribution network to reduce, shape, shift, 
-and modulate its aggregate power consumption\/injection at the substation level. Such aggregate flexiblity enables aggregated DERs to provide grid services 
+The high penetration of distributed energy resources (DERs) provides unprecedented /aggregate/ flexibility for an active distribution network to reduce, shape, shift, 
+and modulate its aggregate power consumption\/injection at the substation level. Such aggregate flexibility enables aggregated DERs to provide grid services 
 at the bulk power system level and facilitates their grid integration. In this research, we try to quantify the aggregate flexibility of DERs given the flexibility of
 individual device, their intertemporal coupling constraints, and network constraints.
  
-Mathematically, given a description of the feasible region of the DER output ($p^{\mathrm{DER}}$) and the aggregate power at the substation 
+Specifically, given a description of the feasible region of the DER output ($p^{\mathrm{DER}}$) and the aggregate power at the substation 
 ($p^{\mathrm{agg}}$) as $(p^{\mathrm{agg}}, p^{\mathrm{DER}}) \in \mathcal{F}^+$, we are interested in the characterization of the set $\mathcal{F}$ such that
 for any $p^{\mathrm{agg}} \in \mathcal{F}$, there exists a vector of $p^{\mathrm{DER}}$ such that $(p^{\mathrm{agg}}, p^{\mathrm{DER}}) \in \mathcal{F}^+$. 
 In other words, the projection of $\mathcal{F}^+$ onto the $p^{\mathrm{agg}}$-space. 
