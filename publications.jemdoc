@@ -3,8 +3,9 @@
 
 == Journal Papers
 
-. *B. Cui* and X. A. Sun, Securing Voltage Stability in Power Grids via Holomorphic Dynamics (submitted).
-. Q. Li, J. Liu, *B. Cui*, W. Song, and J. Ye, [https://ieeexplore.ieee.org/abstract/document/10298800 Distribution System Flexibility Characterization: A Network-Informed Data-Driven Approach], /IEEE Transactions on Smart Grid/, to be published.
+. *B. Cui* and X. A. Sun, Securing Voltage Stability in Power Grids via Holomorphic Dynamics, Automatica, to be published.
+. S. Wang, L. Du, *B. Cui*, and Y. Li, [https://ieeexplore.ieee.org/abstract/document/10738509 Multi-Factor-Coupled, Ahead-of-Time Aggregation of Power Flexibility Under Forecast Uncertainty], /IEEE Transactions on Sustainable Energy/, to be published.
+. Q. Li, J. Liu, *B. Cui*, W. Song, and J. Ye, [https://ieeexplore.ieee.org/abstract/document/10298800 Distribution System Flexibility Characterization: A Network-Informed Data-Driven Approach], /IEEE Transactions on Smart Grid/, vol. 15, no. 1, pp. 1188--1191, Jan. 2024.
 . Y. Zhang, C. Chen, T. Hong, *B. Cui*, Z. Xu, B. Chen, and F. Qiu, [https://www.sciencedirect.com/science/article/pii/S0306261922018165 Robust Trajectory-Constrained Frequency Control for Microgrids Considering Model Linearization Error], /Applied Energy, Special Issue on Microgrids 2023/,  vol. 333, Mar. 2023.
 . *B. Cui*,  A. Zamzam, G. Cavraro, and A. Bernstein, [https://ieeexplore.ieee.org/document/9670647 Efficient Region of Attraction Characterization for Control and Stabilization of Load Tap Changer Dynamics], /IEEE Transactions on Control of Network Systems/, vol. 9, no. 3, pp. 1506--1517, Sep. 2022.
 . J. Huang, X. Zhou, and *B. Cui*, [https://www.sciencedirect.com/science/article/abs/pii/S0378779622004916 Online Distribution System State Estimation via Stochastic Gradient Algorithm], /Electric Power Systems Research/, vol. 213, Dec. 2022.
@@ -27,8 +28,7 @@
 
 == Conference Papers
 
-. L. Chen, B. Xu, S. Zhang, and *B. Cui*, Optimal Offering Strategy of a Price-Taking Virtual Power Plant, /Power System Computation Conference (PSCC)/, Paris, France, 2024 (submitted).
-. B. Ou, B. Wang, *B. Cui*, and D. Wu, Updated Impedance Power Flow, /Power System Computation Conference (PSCC)/, Paris, France, 2024 (submitted).
+. B. Ou, B. Wang, *B. Cui*, and D. Wu, [https://ieeexplore.ieee.org/document/10741762 Updated Impedance Power Flow], 2024 56th North American Power Symposium (NAPS), El Paso, TX, 2024.
 . A. Selim, J. Zhao, G.-S. Seo, F. Ding, and *B. Cui*, Grid-Forming Inverters for Enhancing Stability and Resilience in Distribution Networks Under Transients and Restoration, /2024 Conference on Innovative Smart Grid Technologies, North America (ISGT NA 2024)/, Washington DC, 2024.
 . S. Meliopoulos, G. Cokkinides, Z. Yang, and *B. Cui*, Optimal Reconfiguration of Distribution Networks via Dynamic Programming, /Hawaii International Conference on System Sciences (HICSS)/, Waikiki, HI, 2024.
 . *B. Cui*, G. Cavraro and A. Bernstein, [https://ieeexplore.ieee.org/abstract/document/10252314 Load Shedding for Voltage Regulation With Probabilistic Agent Compliance], /IEEE Power \& Energy Society General Meeting/, Orlando, FL, 2023.
